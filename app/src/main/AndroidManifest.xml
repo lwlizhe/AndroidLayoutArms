@@ -3,9 +3,24 @@
     package="com.lwlizhe.androidlayoutarms">
 
     <application
+        android:name=".TestApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="design_width"
+            android:value="360"/>
+        <meta-data
+            android:name="design_height"
+            android:value="1080"/>
+        <meta-data
+            android:name="design_unit"
+            android:value="dp"/>
+        <meta-data
+            android:name="design_height_enable"
+            android:value="false"/>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
