@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidLayoutArms.iml" filepath="$PROJECT_DIR$/.idea/AndroidLayoutArms.iml" />
-      <module fileurl="file://E:\ASWorkSpace\exercise\AndroidLayoutArms\AndroidLayoutArms.iml" filepath="E:\ASWorkSpace\exercise\AndroidLayoutArms\AndroidLayoutArms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidLayoutArms.iml" filepath="$PROJECT_DIR$/AndroidLayoutArms.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\ASWorkSpace\exercise\AndroidLayoutArms\app\app.iml" filepath="E:\ASWorkSpace\exercise\AndroidLayoutArms\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/armlibrary/armlibrary.iml" filepath="$PROJECT_DIR$/armlibrary/armlibrary.iml" />
-      <module fileurl="file://E:\ASWorkSpace\exercise\AndroidLayoutArms\armlibrary\armlibrary.iml" filepath="E:\ASWorkSpace\exercise\AndroidLayoutArms\armlibrary\armlibrary.iml" />
     </modules>
   </component>
 </project>
