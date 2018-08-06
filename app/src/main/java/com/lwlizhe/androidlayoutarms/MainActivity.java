@@ -16,8 +16,6 @@ public class MainActivity extends FragmentActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
         Button start = findViewById(R.id.start);
         start.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -26,5 +24,7 @@ public class MainActivity extends FragmentActivity {
             }
         });
 
+
+        //test
     }
 }
