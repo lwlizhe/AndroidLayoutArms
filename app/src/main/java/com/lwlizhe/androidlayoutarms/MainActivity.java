@@ -16,13 +16,11 @@ public class MainActivity extends FragmentActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final TestView viewById = findViewById(R.id.test);
-
         Button start = findViewById(R.id.start);
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                viewById.startAnimation();
+
             }
         });
 
